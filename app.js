@@ -27,3 +27,6 @@ var server = http.createServer(function(request, response){
 		}
 	});
 }).listen(8081);
+
+
+//what we can do is implement react inside here, so that the code runs better and implementation gets easier, let's execute that!
